@@ -1,0 +1,3 @@
+[submodule "src/github.com/keysonZZZ/kgo"]
+	path = src/github.com/keysonZZZ/kgo
+	url = https://github.com/keysonZZZ/kgo.git
