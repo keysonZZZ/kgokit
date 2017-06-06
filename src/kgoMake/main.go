@@ -8,4 +8,5 @@ func main() {
 		Runner: buildCmd,
 	})
 
+	kgoConsole.Main()
 }

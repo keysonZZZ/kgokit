@@ -4,5 +4,7 @@ CrossCompileTarget:
     - windows_amd64
     - linux_amd64
     - darwin_amd64
-Make: "kgo gorun make"
+
+Make: "kgo gorun kgoMake"
 MakeSubCommandMap:
+
